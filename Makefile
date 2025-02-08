@@ -17,6 +17,7 @@ SRC = ./Main.c \
 	  ./BSW/ECU_Abstraction/MotorDriver.c \
 	  ./BSW/ECU_Abstraction/SpeedSensor.c \
 	  ./BSW/ECU_Abstraction/ThrottleSensor.c \
+	  ./BSW/service/Os.c \
       ./BSW/MCAL/Adc_M.c \
       ./BSW/MCAL/Dio.c \
       ./BSW/MCAL/Pwm.c
