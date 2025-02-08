@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "pwm.h": "c",
+        "adc.h": "c",
+        "dio.h": "c"
+    }
+}
